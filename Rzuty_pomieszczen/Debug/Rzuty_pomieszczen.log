@@ -1,0 +1,4 @@
+﻿  main.cpp
+main.obj : error LNK2001: unresolved external symbol "public: static class sf::RenderStates const sf::RenderStates::Default" (?Default@RenderStates@sf@@2V12@B)
+main.obj : error LNK2001: unresolved external symbol "public: static class sf::Color const sf::Color::Green" (?Green@Color@sf@@2V12@B)
+C:\Users\Paulina\Documents\Studia\3_sem\pk3\Rzuty_pomieszczen\Debug\Rzuty_pomieszczen.exe : fatal error LNK1120: 2 unresolved externals
